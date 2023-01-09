@@ -1,0 +1,6 @@
+.env
+.env.test
+.custom-environment
+.npm
+
+node_modules/
